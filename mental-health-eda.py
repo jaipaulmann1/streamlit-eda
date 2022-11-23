@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plost
 
 st.set_page_config(layout='wide', initial_sidebar_state='expanded',
                    page_title='Mental Health Dataset EDA', page_icon=':bar_chart:')
